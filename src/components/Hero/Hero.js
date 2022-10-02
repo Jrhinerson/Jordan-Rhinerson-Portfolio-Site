@@ -13,7 +13,7 @@ const Hero = (props) => (
           Jordan Rhinerson
         </SectionTitle>
         <SectionText>
-        Welcome! I'm a Software Engineer with a focus and passion for front-end development. I grew up in retail as a 4th generation Jeweler and a passion to help businesses through technology. I'm excited to show you some of the stuff I have been working on. <br />Let's Go!
+        Welcome! I'm a Software Engineer with a focus and passion for web development. I grew up in retail as a 4th generation Jeweler and a passion to help businesses thrive through technology. I'm excited to show you some of the stuff I have been working on. <br />Let's Go!
         </SectionText>
         <br />
       </LeftSection>
